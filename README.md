@@ -10,6 +10,7 @@
 
 ## 🛠️ Technical Skills
 **- Programming Languages:** C++, C#, Java, Python, JavaScript, HTML, CSS, MATLAB, x86 Assembly  
+**- Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS
 **- Frameworks & Libraries:** React, QT, Firebase  
 **- Cloud & Databases:** Firebase  
 **- Testing & Methodologies:** Agile, Jama
@@ -23,8 +24,6 @@
 - **Design & Modeling:** Figma, StarUML, AutoCAD  
 - **Project Management:** Jira, Confluence
   
-**Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS
-
 ## 🔗 Links to my project repositories:
 📈 Cryptocurrency Tracking Tool: \
 🔧 Autonomous Hovercraft: \
