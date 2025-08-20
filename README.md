@@ -9,10 +9,10 @@
 ##
 
 ## 🛠️ Technical Skills
-**Programming Languages:** C++, C#, Java, Python, JavaScript, HTML, CSS, MATLAB, x86 Assembly  
-**Frameworks & Libraries:** React, QT, Firebase  
-**Cloud & Databases:** Firebase  
-**Testing & Methodologies:** Agile, Jama
+**- Programming Languages:** C++, C#, Java, Python, JavaScript, HTML, CSS, MATLAB, x86 Assembly  
+**- Frameworks & Libraries:** React, QT, Firebase  
+**- Cloud & Databases:** Firebase  
+**- Testing & Methodologies:** Agile, Jama
 
 **Tools & Platforms:**  
 - **Version Control:** Git, GitHub, Bitbucket, TortoiseSVN  
@@ -21,17 +21,18 @@
 - **Networking & Terminals:** Tera Term  
 - **Media Processing:** FFmpeg, OBS Studio, VLC  
 - **Design & Modeling:** Figma, StarUML, AutoCAD  
-- **Project Management:** Jira, Confluence  
+- **Project Management:** Jira, Confluence
+  
 **Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS
 
 ## 🔗 Links to my project repositories:
-📈 Cryptocurrency Tracking Tool: 
-🔧 Autonomous Hovercraft: 
-🛜 WiScan: 
-🎮 1993 Doom Inspired First-Person Shooter: 
-💊 Machine Learning Model for Diagnosing Breast Cancer:
-📟 Vulnerability Pattern Detector:
-📚 TA Sorter: 
+📈 Cryptocurrency Tracking Tool: \
+🔧 Autonomous Hovercraft: \
+🛜 WiScan: \
+🎮 1993 Doom Inspired First-Person Shooter: \
+💊 Machine Learning Model for Diagnosing Breast Cancer: \
+📟 Vulnerability Pattern Detector: \
+📚 TA Sorter: \
 ##
 
 ## 🔭 What I'm currently working on:
