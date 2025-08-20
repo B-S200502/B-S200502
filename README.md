@@ -9,18 +9,19 @@
 ##
 
 ## 🛠️ Technical Skills
-**Programming Languages:** `C++` `C#` `Java` `Python` `JavaScript` `HTML` `CSS` `MATLAB` `x86 Assembly`
-**Frameworks & Libraries:** `React` `QT` `Firebase`
-**Testing & Methodologies:** `Agile` `Jama`
-**Tools & Platforms:**
-- **Version Control:** `Git` `GitHub` `Bitbucket` `TortoiseSVN`
-- **CI/CD & Automation:** `Jenkins` `Bash`
-- **IDEs & Code Editors:** `Visual Studio` `Visual Studio Code` `IntelliJ` `CLion` `Eclipse` `Xcode`
-- **Networking & Terminals:** `Tera Term`
-- **Media Processing:** `FFmpeg` `OBS Studio` `VLC`
-- **Design & Modeling:** `Figma` `StarUML` `AutoCAD`
-- **Project Management:** `Jira` `Confluence`
-**Operating Systems:** `Windows` `Linux` (`Ubuntu`, `CentOS`) `macOS` `Raspberry Pi OS`
+**Programming Languages:** C++, C#, Java, Python, JavaScript, HTML, CSS, MATLAB, x86 Assembly  
+**Frameworks & Libraries:** React, QT, Firebase  
+**Cloud & Databases:** Firebase  
+**Testing & Methodologies:** Agile, Jama  
+**Tools & Platforms:**  
+- **Version Control:** Git, GitHub, Bitbucket, TortoiseSVN  
+- **CI/CD & Automation:** Jenkins, Bash  
+- **IDEs & Code Editors:** Visual Studio, Visual Studio Code, IntelliJ, CLion, Eclipse, Xcode  
+- **Networking & Terminals:** Tera Term  
+- **Media Processing:** FFmpeg, OBS Studio, VLC  
+- **Design & Modeling:** Figma, StarUML, AutoCAD  
+- **Project Management:** Jira, Confluence  
+**Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS
 
 ## 🔗 Links to my project repositories:
 - 📈 Cryptocurrency Tracking Tool: 
