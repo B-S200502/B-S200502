@@ -9,10 +9,9 @@
 ##
 
 ## 🛠️ Technical Skills
-**- Programming Languages:** C++, C#, Java, Python, JavaScript, HTML, CSS, MATLAB, x86 Assembly  
-**- Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS
-**- Frameworks & Libraries:** React, QT, Firebase  
-**- Cloud & Databases:** Firebase  
+**- Programming Languages:** C++, C#, Java, Python, JavaScript, HTML, CSS, MATLAB, x86 Assembly\  
+**- Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS\
+**- Frameworks & Libraries:** React, QT, Firebase\  
 **- Testing & Methodologies:** Agile, Jama
 
 **Tools & Platforms:**  
