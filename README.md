@@ -44,7 +44,9 @@
 ##
 
 ## 🗣️ Languages:
-English (Fluent), Arabic (Fluent), French (Intermediate)
+- English (Fluent)
+- Arabic (Fluent)
+- French (Intermediate)
 
 ## 📫 How to reach me:
 ###
