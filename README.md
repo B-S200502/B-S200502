@@ -1,10 +1,10 @@
 # Basem Sousou's Profile 💻🦾🛠️⚡️
 
 #### 
-🎓 4th-year Computer Engineering Co-op student @ Concordia University
-📍 Based in Montreal, Quebec, Canada
-💻 Passionate about AI, Machine Learning, Trading and all things tech.
-👩🏻‍💻 Interned as a Software Engineering Intern @ Matrox from September 2023 - December 2024
+🎓 4th-year Computer Engineering Co-op student @ Concordia University\
+📍 Based in Montreal, Quebec, Canada\
+💻 Passionate about AI, Machine Learning, Trading and all things tech.\
+👩🏻‍💻 Interned as a Software Engineering Intern @ Matrox from September 2023 - December 2024\
 🗓️ Interned as a Software Developer @ Adacel from January - May 2025
 ##
 
