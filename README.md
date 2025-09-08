@@ -37,6 +37,17 @@
 - Acoustic Imager for my Capstone project
 ##
 
+## Large Group Projects
+🔧 Autonomous Hovercraft:
+- Designed and built a fully autonomous hovercraft (dual fan lift + thrust) capable of traversing a competition track and overcoming obstacles using IR and IMU sensor fusion with PID stabilization.  
+- Implemented modular C++ APIs and classes (IR sensor, IMU, navigation, motors, UART/USB) with low-level register configuration and PID control, ensuring robust sensor integration and real-time error correction.  
+- Conducted Matlab and CoppeliaSim simulations to optimize weight distribution, component layout, and movement algorithms before fabrication.  
+- Applied additive manufacturing (3D printing in PETG/TPU) to develop a lightweight frame, custom brackets, and fan pressure sleeves, improving lift by 300g and enhancing stability.  
+- Managed the project with Agile methodology, dividing responsibilities across mechanical, software, and simulation teams; completed within 11 weeks under competition constraints and budget.
+<img width="517" height="392" alt="Screenshot 2025-09-08 at 7 03 08 PM" src="https://github.com/user-attachments/assets/84927a82-cb98-4cae-bf28-3cf1b5b4fd79" />
+
+🛜 WiScan: \
+
 ## 🥇 Awards and Certifications:
 #### 
 - First place for WiScan (mini capstone project)
