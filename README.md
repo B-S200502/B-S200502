@@ -29,7 +29,7 @@
 📟 Vulnerability Pattern Detector: \
 📚 TA Sorter: \
 
-The following 2 are discussed in more detail (with images) below \
+# The following 2 are discussed in more detail (with images) below \
 🔧 Autonomous Hovercraft: Could not share due to course rules \
 🛜 WiScan: 
 - Android Application: https://github.com/Aymanbalaa/WiScan.git \
