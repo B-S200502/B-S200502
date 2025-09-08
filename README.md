@@ -38,6 +38,30 @@
 ##
 
 ## Large Group Projects
+🛜 WiScan: 
+- Partnered with a 6-member team to design and build a Raspberry Pi–powered device integrated with a fully functional Android app; project awarded **1st place in the 2024 Mini Capstone Competition**.  
+- Engineered a network security geo-scanner that maps WiFi networks, identifies vulnerabilities, and provides insights by collecting and analyzing BSSID, security protocols, provider information, and geolocation data.  
+- Implemented Android Studio features including an interactive triangulation-based map, CSV-exportable scan lists, real-time statistics dashboards, and remote hardware control (safe shutdown, settings).
+<div align="center">
+  <img width="490" height="322" alt="WiScan Home Page" src="https://github.com/user-attachments/assets/2dc241fa-766d-47da-8532-6b6d3eb077e8" />
+  <p><em>WiScan Home Page with navigation options</em></p>
+</div>
+
+<div align="center">
+  <img width="447" height="395" alt="WiScan Scanned Network List" src="https://github.com/user-attachments/assets/7eca53d3-7486-47a1-9d2c-cd6646d60e5e" />
+  <p><em>Scanned Network List showing security protocols and BSSIDs</em></p>
+</div>
+
+<div align="center">
+  <img width="412" height="398" alt="WiScan Interactive Map" src="https://github.com/user-attachments/assets/de26b72f-d1cb-4680-b470-043dd53906e7" />
+  <p><em>Interactive Map with triangulation-based network positioning</em></p>
+</div>
+
+<div align="center">
+  <img width="548" height="381" alt="WiScan Statistics Dashboard" src="https://github.com/user-attachments/assets/c52d42d1-7282-4d70-8cd7-ba5082626c8a" />
+  <p><em>Real-time Statistics Dashboard with security and provider breakdown</em></p>
+</div>
+
 🔧 Autonomous Hovercraft:
 - Designed and built a fully autonomous hovercraft (dual fan lift + thrust) capable of traversing a competition track and overcoming obstacles using IR and IMU sensor fusion with PID stabilization.  
 - Implemented modular C++ APIs and classes (IR sensor, IMU, navigation, motors, UART/USB) with low-level register configuration and PID control, ensuring robust sensor integration and real-time error correction.  
@@ -47,9 +71,7 @@
 <div align="center">
   <img width="517" height="392" alt="Autonomous Hovercraft" src="https://github.com/user-attachments/assets/84927a82-cb98-4cae-bf28-3cf1b5b4fd79" />
   <p><em>Final Hovercraft Prototype</em></p>
-</div>
-
-🛜 WiScan: \
+</div>  
 
 ## 🥇 Awards and Certifications:
 #### 
