@@ -27,7 +27,7 @@
 🔧 Autonomous Hovercraft: \
 🛜 WiScan: \
 🎮 1993 Doom Inspired First-Person Shooter: \
-💊 Machine Learning Model for Diagnosing Breast Cancer: https://github.com/B-S200502/Breast-Cancer-Predictor.git\
+💊 Machine Learning Model for Diagnosing Breast Cancer: https://github.com/B-S200502/Breast-Cancer-Predictor.git \
 📟 Vulnerability Pattern Detector: \
 📚 TA Sorter: \
 ##
