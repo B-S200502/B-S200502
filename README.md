@@ -24,17 +24,21 @@
 - **Project Management:** Jira, Confluence
   
 ## 🔗 Links to my project repositories:
-🔧 Autonomous Hovercraft: \
-🛜 WiScan: \
 🎮 1993 Doom Inspired First-Person Shooter: https://github.com/B-S200502/COMP-371-Project.git \
 💊 Machine Learning Model for Diagnosing Breast Cancer: https://github.com/B-S200502/Breast-Cancer-Predictor.git \
 📟 Vulnerability Pattern Detector: \
 📚 TA Sorter: \
+
+The following 2 are discussed in more detail (with images) below.
+🔧 Autonomous Hovercraft: Could not share due to course rules \
+🛜 WiScan: 
+- Android Application: https://github.com/Aymanbalaa/WiScan.git \
+- Embedded / Hardware Components: https://github.com/PeterGhimself/NetworkSecurityGeoScanner.git \
 ##
 
 ## 🔭 What I'm currently working on:
 📈 Cryptocurrency Tracking Tool: https://github.com/B-S200502/CryptoTrackerTool.git
-- Acoustic Imager for my Capstone project
+🩻 Acoustic Imager (Capstone Project - Final Year Engineering Project)
 ##
 
 ## Large Group Projects
