@@ -44,22 +44,22 @@
 - Implemented Android Studio features including an interactive triangulation-based map, CSV-exportable scan lists, real-time statistics dashboards, and remote hardware control (safe shutdown, settings).
 <div align="center">
   <img width="490" height="322" alt="WiScan Home Page" src="https://github.com/user-attachments/assets/2dc241fa-766d-47da-8532-6b6d3eb077e8" />
-  <p><em>WiScan Home Page with navigation options</em></p>
+  <p><em>WiScan Final Hardware Scanning Device</em></p>
 </div>
 
 <div align="center">
   <img width="447" height="395" alt="WiScan Scanned Network List" src="https://github.com/user-attachments/assets/7eca53d3-7486-47a1-9d2c-cd6646d60e5e" />
-  <p><em>Scanned Network List showing security protocols and BSSIDs</em></p>
+  <p><em>WiScan Home Page with navigation options</em></p>
 </div>
 
 <div align="center">
   <img width="412" height="398" alt="WiScan Interactive Map" src="https://github.com/user-attachments/assets/de26b72f-d1cb-4680-b470-043dd53906e7" />
-  <p><em>Interactive Map with triangulation-based network positioning</em></p>
+  <p><em>Scanned Network List showing security protocols and BSSIDs</em></p>
 </div>
 
 <div align="center">
   <img width="548" height="381" alt="WiScan Statistics Dashboard" src="https://github.com/user-attachments/assets/c52d42d1-7282-4d70-8cd7-ba5082626c8a" />
-  <p><em>Real-time Statistics Dashboard with security and provider breakdown</em></p>
+  <p><em>Interactive Map with triangulation-based network positioning</em></p>
 </div>
 
 🔧 Autonomous Hovercraft:
