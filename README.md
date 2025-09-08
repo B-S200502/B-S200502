@@ -26,7 +26,7 @@
 ## 🔗 Links to my project repositories:
 🔧 Autonomous Hovercraft: \
 🛜 WiScan: \
-🎮 1993 Doom Inspired First-Person Shooter: \
+🎮 1993 Doom Inspired First-Person Shooter: https://github.com/B-S200502/COMP-371-Project.git \
 💊 Machine Learning Model for Diagnosing Breast Cancer: https://github.com/B-S200502/Breast-Cancer-Predictor.git \
 📟 Vulnerability Pattern Detector: \
 📚 TA Sorter: \
