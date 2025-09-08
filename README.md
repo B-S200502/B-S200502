@@ -44,7 +44,10 @@
 - Conducted Matlab and CoppeliaSim simulations to optimize weight distribution, component layout, and movement algorithms before fabrication.  
 - Applied additive manufacturing (3D printing in PETG/TPU) to develop a lightweight frame, custom brackets, and fan pressure sleeves, improving lift by 300g and enhancing stability.  
 - Managed the project with Agile methodology, dividing responsibilities across mechanical, software, and simulation teams; completed within 11 weeks under competition constraints and budget.
-<img width="517" height="392" alt="Screenshot 2025-09-08 at 7 03 08 PM" src="https://github.com/user-attachments/assets/84927a82-cb98-4cae-bf28-3cf1b5b4fd79" />
+<div align="center">
+  <img width="517" height="392" alt="Autonomous Hovercraft" src="https://github.com/user-attachments/assets/84927a82-cb98-4cae-bf28-3cf1b5b4fd79" />
+  <p><em>Final Hovercraft Prototype</em></p>
+</div>
 
 🛜 WiScan: \
 
