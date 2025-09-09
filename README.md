@@ -24,12 +24,12 @@
 - **Project Management:** Jira, Confluence
   
 ## 🔗 Links to my project repositories:
-🎮 1993 Doom Inspired First-Person Shooter: https://github.com/B-S200502/COMP-371-Project.git \
-💊 Machine Learning Model for Diagnosing Breast Cancer: https://github.com/B-S200502/Breast-Cancer-Predictor.git \
-📟 Vulnerability Pattern Detector: \
-📚 TA Sorter: \
+🎮 1993 Doom Inspired First-Person Shooter (C++): https://github.com/B-S200502/COMP-371-Project.git \
+💊 Machine Learning Model for Diagnosing Breast Cancer (Java): https://github.com/B-S200502/Breast-Cancer-Predictor.git \
+📟 Vulnerability Pattern Detector (Java): \
+📚 TA Sorter (Java): \
 
-The following 2 are discussed in more detail (with images) below: \
+The following 2 are discussed in more detail (with images) below: 
 
 🔧 Autonomous Hovercraft: Could not share due to course rules \
 🛜 WiScan: 
@@ -38,7 +38,7 @@ The following 2 are discussed in more detail (with images) below: \
 ##
 
 ## 🔭 What I'm currently working on:
-📈 Cryptocurrency Tracking Tool: https://github.com/B-S200502/CryptoTrackerTool.git
+📈 Cryptocurrency Tracking Tool: https://github.com/B-S200502/CryptoTrackerTool.git \
 🩻 Acoustic Imager (Capstone Project - Final Year Engineering Project)
 ##
 
