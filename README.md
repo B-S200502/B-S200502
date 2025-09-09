@@ -33,7 +33,7 @@
 
 The following 2 are discussed in more detail (with images) below: 
 
-🔧 Autonomous Hovercraft: Could not share due to course rules, see next section 
+🔧 Autonomous Hovercraft: Could not share due to course rules, see Large Group Projects section 
 
 🛜 WiScan: 
 - Android Application: https://github.com/Aymanbalaa/WiScan.git 
@@ -46,6 +46,17 @@ The following 2 are discussed in more detail (with images) below:
 ##
 
 ## Large Group Projects
+🔧 Autonomous Hovercraft:
+- Designed and built a fully autonomous hovercraft (dual fan lift + thrust) capable of traversing a competition track and overcoming obstacles using IR and IMU sensor fusion with PID stabilization.  
+- Implemented modular C++ APIs and classes (IR sensor, IMU, navigation, motors, UART/USB) with low-level register configuration and PID control, ensuring robust sensor integration and real-time error correction.  
+- Conducted Matlab and CoppeliaSim simulations to optimize weight distribution, component layout, and movement algorithms before fabrication.  
+- Applied additive manufacturing (3D printing in PETG/TPU) to develop a lightweight frame, custom brackets, and fan pressure sleeves, improving lift by 300g and enhancing stability.  
+- Managed the project with Agile methodology, dividing responsibilities across mechanical, software, and simulation teams; completed within 11 weeks under competition constraints and budget.
+<div align="center">
+  <img width="517" height="392" alt="Autonomous Hovercraft" src="https://github.com/user-attachments/assets/84927a82-cb98-4cae-bf28-3cf1b5b4fd79" />
+  <p><em>Final Hovercraft Prototype</em></p>
+</div>  
+
 🛜 WiScan: 
 - Partnered with a 6-member team to design and build a Raspberry Pi–powered device integrated with a fully functional Android app; project awarded **1st place in the 2024 Mini Capstone Competition**.  
 - Engineered a network security geo-scanner that maps WiFi networks, identifies vulnerabilities, and provides insights by collecting and analyzing BSSID, security protocols, provider information, and geolocation data.  
@@ -69,17 +80,6 @@ The following 2 are discussed in more detail (with images) below:
   <img width="548" height="381" alt="WiScan Statistics Dashboard" src="https://github.com/user-attachments/assets/c52d42d1-7282-4d70-8cd7-ba5082626c8a" />
   <p><em>Interactive Map with triangulation-based network positioning</em></p>
 </div>
-
-🔧 Autonomous Hovercraft:
-- Designed and built a fully autonomous hovercraft (dual fan lift + thrust) capable of traversing a competition track and overcoming obstacles using IR and IMU sensor fusion with PID stabilization.  
-- Implemented modular C++ APIs and classes (IR sensor, IMU, navigation, motors, UART/USB) with low-level register configuration and PID control, ensuring robust sensor integration and real-time error correction.  
-- Conducted Matlab and CoppeliaSim simulations to optimize weight distribution, component layout, and movement algorithms before fabrication.  
-- Applied additive manufacturing (3D printing in PETG/TPU) to develop a lightweight frame, custom brackets, and fan pressure sleeves, improving lift by 300g and enhancing stability.  
-- Managed the project with Agile methodology, dividing responsibilities across mechanical, software, and simulation teams; completed within 11 weeks under competition constraints and budget.
-<div align="center">
-  <img width="517" height="392" alt="Autonomous Hovercraft" src="https://github.com/user-attachments/assets/84927a82-cb98-4cae-bf28-3cf1b5b4fd79" />
-  <p><em>Final Hovercraft Prototype</em></p>
-</div>  
 
 ## 🥇 Awards and Certifications:
 #### 
