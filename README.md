@@ -28,6 +28,7 @@
 💊 Machine Learning Model for Diagnosing Breast Cancer (Java): https://github.com/B-S200502/Breast-Cancer-Predictor.git \
 📟 Vulnerability Pattern Detector (Java): \
 📚 TA Sorter (Java): \
+🚗 Car Rental Webapp (React & Google Firebase): https://github.com/B-S200502/MatroxGang-soen341projectW2024.git 
 
 
 The following 2 are discussed in more detail (with images) below: 
