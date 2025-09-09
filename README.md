@@ -29,12 +29,14 @@
 📟 Vulnerability Pattern Detector (Java): \
 📚 TA Sorter (Java): \
 
+
 The following 2 are discussed in more detail (with images) below: 
 
-🔧 Autonomous Hovercraft: Could not share due to course rules \
+🔧 Autonomous Hovercraft: Could not share due to course rules, see next section 
+
 🛜 WiScan: 
-- Android Application: https://github.com/Aymanbalaa/WiScan.git \
-- Embedded / Hardware Components: https://github.com/PeterGhimself/NetworkSecurityGeoScanner.git \
+- Android Application: https://github.com/Aymanbalaa/WiScan.git 
+- Embedded / Hardware Components: https://github.com/PeterGhimself/NetworkSecurityGeoScanner.git 
 ##
 
 ## 🔭 What I'm currently working on:
