@@ -40,7 +40,7 @@ The following 2 are discussed in more detail (with images) below:
 ##
 
 ## 🔭 What I'm currently working on:
-📈 Cryptocurrency Tracking Tool: https://github.com/B-S200502/CryptoTrackerTool.git \
+📈 Cryptocurrency Tracking Tool (Personal Project): https://github.com/B-S200502/CryptoTrackerTool.git \
 🩻 Acoustic Imager (Capstone Project - Final Year Engineering Project)
 ##
 
