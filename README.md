@@ -24,10 +24,9 @@
 - **Project Management:** Jira, Confluence
   
 ## 🔗 Links to my project repositories:
-🎮 1993 Doom Inspired First-Person Shooter (C++): https://github.com/B-S200502/COMP-371-Project.git \
+🎮 1993 Doom Inspired First-Person Shooter (C++, openGL): https://github.com/B-S200502/COMP-371-Project.git \
 💊 Machine Learning Model for Diagnosing Breast Cancer (Java): https://github.com/B-S200502/Breast-Cancer-Predictor.git \
 📟 Vulnerability Pattern Detector (Java): https://github.com/B-S200502/MutliThreaded-Vulnerability-Detector.git \
-📚 TA Sorter (Java): \
 🚗 Car Rental Webapp (React & Google Firebase): https://github.com/B-S200502/MatroxGang-soen341projectW2024.git 
 
 
