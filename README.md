@@ -42,6 +42,7 @@ The following 2 are discussed in more detail (with images) below:
 ## 🔭 What I'm currently working on:
 📈 Cryptocurrency Tracking Tool (Personal Project): https://github.com/B-S200502/CryptoTrackerTool.git \
 🩻 Acoustic Imager (Capstone Project - Final Year Engineering Project)
+💻 MIPS CPU (Lab component where I am building a CPU throughout the semester for my Computer Architecture and Software class)
 ##
 
 ## Large Group Projects
