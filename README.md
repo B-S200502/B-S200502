@@ -13,6 +13,7 @@
 **- Operating Systems:** Windows, Linux (Ubuntu, CentOS), macOS, Raspberry Pi OS\
 **- Frameworks & Libraries:** React, QT, Firebase  
 **- Testing & Methodologies:** Agile, Jama
+**- AI Tools:** Claude (Sonnet), Cursor, ChatGPT, Google Gemini
 
 **Tools & Platforms:**  
 - **Version Control:** Git, GitHub, Bitbucket, TortoiseSVN  
